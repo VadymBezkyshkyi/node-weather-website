@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js"
@@ -12,6 +11,17 @@
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.0.6",
+    "request": "^2.88.0",
     "require": "^2.4.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymVinokur/node-weather-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VadymVinokur/node-weather-website/issues"
+  },
+  "homepage": "https://github.com/VadymVinokur/node-weather-website#readme",
+  "description": ""
 }
