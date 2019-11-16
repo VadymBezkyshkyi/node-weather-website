@@ -13,8 +13,5 @@
     "express": "^4.17.1",
     "hbs": "^4.0.6",
     "require": "^2.4.20"
-  },
-  "devDependencies": {
-    "request": "^2.88.0"
   }
 }
